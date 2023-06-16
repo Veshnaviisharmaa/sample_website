@@ -1,0 +1,40 @@
+h1
+{
+    text-align: center;
+    margin-top: 10%;
+    font-size: 50;
+}
+h3
+{
+    text-align: center;
+    padding: 2%;
+    margin-top: 0%;
+}
+.column1
+{   margin-left: 15%;
+    height: 300;
+    width: 250;
+    background-color: teal;
+    display: inline-block;
+}
+.column2
+{   margin-left: 5%;
+    height: 300;
+    width: 250;
+    background-color: burlywood;
+    display: inline-block ;
+    
+}
+.column3
+{   margin-left: 5%;
+    height: 300;
+    width: 250;
+    background-color: whitesmoke;
+    display: inline-block;
+
+}
+.contact
+{
+   margin-left: 80%;
+    
+}
